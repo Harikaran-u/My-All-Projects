@@ -1,0 +1,19 @@
+.project-card {
+  list-style: none;
+  height: 280px;
+  width: 280px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-radius: 2px;
+}
+.project-img {
+  width: 100%;
+  border-radius: 2px;
+}
+.project-name {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #475569;
+  margin-left: 20px;
+}
